@@ -1,0 +1,6 @@
+DA Channel Number	Channel Name	Convertion factor	Modification	Comment
+1	110k Dis	1.0000	-1.000	Tension acuator displacement
+2	110k For	10.0000	-1.000	Tension acuator load
+3	LVDT 1 V	0.190712839	-1.000	Anchor displacement
+4	LVDT 2 V	0.19038547	-1.000	Anchor displacement
+5	SP2 Bloc	0.099651221	-1.000	Block uplift
